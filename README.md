@@ -1,5 +1,5 @@
 
-**This account has been migrated to -> [https://github.com/Frank-ZY-Dou](https://github.com/Frank-ZY-Dou)**
+**This account has been migrated to [https://github.com/Frank-ZY-Dou](https://github.com/Frank-ZY-Dou)**
 
 [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://frank-zy-dou.github.io/index.html)
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SLRYlKsAAAAJ&hl=en)
